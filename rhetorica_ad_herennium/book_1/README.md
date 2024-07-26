@@ -1,6 +1,3 @@
-# Rhetorica Ad Herennium
-## On the Theory of Public Speaking
-
 ### Book I
 #### Chapter I.
 ***(sect. 1)*** My private affairs keep me so busy that I can hardly find enough leisure to devote to studies, and the little that is vouchsafed to me I have usually preferred to spend on philosophy. Yet your desire, Gaius Herennius, has spurred me to compose a work on the Theory of Public Speaking, lest you should suppose that in a matter which concerns you I either lacked the will or shirked the labour. And I have undertaken this project the more gladly because I knew that you had good grounds in wishing to learn rhetoric, for it is true that copiousness and facility in expression bear abundant fruit, if controlled by proper knowledge and a strict discipline of the mind.
